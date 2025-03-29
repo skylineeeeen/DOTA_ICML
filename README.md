@@ -18,10 +18,7 @@
 | **0.2**          | 69.47 | 69.55 | 69.53 |
 | **0.3**          | 69.25 | 69.36 | 69.34 |
 
-| method | Imagenet|
-|----|:----:|
-| **TDA (best performance above)** | 69.72 |
-| **DOTA (ours)** | 70.69 |
+
 
 
 ## More baselines. 
