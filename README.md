@@ -44,6 +44,8 @@
 | num    | 10000  | 20000  | 30000  | 40000  | 50000  |
 |--------|--------|--------|--------|--------|--------|
 | imagenet | 70.05  | 70.57  | 70.66  | 70.69  | 70.69  |
+<img width="1200" alt="8ceefd81d9fad2990f8c6b04c5caf8f" src="https://github.com/user-attachments/assets/023b1dfa-532f-4432-9d63-4f28cd832050" />
+
 
 ## Setting of $\mu$
 
