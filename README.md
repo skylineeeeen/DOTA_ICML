@@ -18,6 +18,11 @@
 | **0.2**          | 69.47 | 69.55 | 69.53 |
 | **0.3**          | 69.25 | 69.36 | 69.34 |
 
+| method	 | Imagenet|
+|:------------:|:----:|
+| **TDA (best performance above)** | 69.72 |
+| **DOTA (ours)** | 70.69 |
+
 
 ## More baselines. 
 
@@ -44,8 +49,7 @@
 | num    | 10000  | 20000  | 30000  | 40000  | 50000  |
 |--------|--------|--------|--------|--------|--------|
 | imagenet | 70.05  | 70.57  | 70.66  | 70.69  | 70.69  |
-<img width="1200" alt="8ceefd81d9fad2990f8c6b04c5caf8f" src="https://github.com/user-attachments/assets/023b1dfa-532f-4432-9d63-4f28cd832050" />
-
+<img width="600" height="470" alt="image description" src="https://github.com/user-attachments/assets/023b1dfa-532f-4432-9d63-4f28cd832050" />
 
 ## Setting of $\mu$
 
