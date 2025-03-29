@@ -1,5 +1,12 @@
 # reveiwer 1
 ## Comparison to Naive Extensions of TDA
+
+
+| method | Imagenet|
+|:---|:----:|
+| **TDA (best performance below)** | 69.72 |
+| **DOTA (ours)** | 70.69 |
+
 | pos \ neg | 2    | 3    | 4    |
 |:--------:|:----:|:----:|:----:|
 | **3**        | 69.50 | 69.28 | 69.15 |
@@ -18,10 +25,6 @@
 | **0.2**          | 69.47 | 69.55 | 69.53 |
 | **0.3**          | 69.25 | 69.36 | 69.34 |
 
-| method | Imagenet|
-|:---|:----:|
-| **TDA (best performance above)** | 69.72 |
-| **DOTA (ours)** | 70.69 |
 
 
 ## More baselines. 
