@@ -87,3 +87,4 @@
 |--------|--------|--------|--------|--------|--------|
 | imagenet | 70.05  | 70.57  | 70.66  | 70.69  | 70.69  |
 
+<img width="600" height="470" alt="image description" src="https://github.com/user-attachments/assets/023b1dfa-532f-4432-9d63-4f28cd832050" />
