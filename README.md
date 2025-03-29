@@ -4,7 +4,7 @@
 
 | method | Imagenet|
 |:---|:----:|
-| **TDA (best performance below)** | 69.72 |
+| **TDA (best performance)** | 69.72 |
 | **DOTA (ours)** | 70.69 |
 
 | pos \ neg | 2    | 3    | 4    |
